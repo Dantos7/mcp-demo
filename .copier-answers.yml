@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.0.3-10-gc74c5cf
+_src_path: gh:Dantos7/python-project-template
+author_email: daniel.tosone@gmail.com
+author_name: Daniel Tosone
+copyright_year: '2026'
+github_username: Dantos7
+license_type: MIT
+line_length: 140
+package_name: mcp_demo
+project_description: A demo project to test out MCP.
+project_name: mcp-demo
+project_slug: mcp-demo
+python_constraint: exact
+python_version: '3.14'
+use_data_dirs: false
+use_docs: false
+use_dynamic_versioning: true
+use_private_registry: false
